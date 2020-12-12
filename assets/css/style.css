@@ -343,7 +343,7 @@ p {
     left: 0;
     width: 100%;
     height: 50%;
-    background-color: #2b2a35;
+    background-color: none;
     z-index: -1; }
   .header_navbar.sticky {
     position: fixed;
@@ -757,7 +757,7 @@ p {
   z-index: 9; }
 
 .slider_content {
-  padding-top: 140px;
+  padding-top: 0px;
   max-width: 680px;
   margin: 0 auto;
   width: 100%; }
@@ -3358,7 +3358,7 @@ p {
       11.EVENT css 
 ===========================*/
 .event_area {
-  background-color: #f86048; }
+  background-color: orange; }
 
 .single_event .event_image {
   position: relative;
@@ -4324,7 +4324,7 @@ p {
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: rgba(22, 200, 231, 0.8);
+        background-color: rgba(22, 106, 231, 0.8);
         z-index: -1; }
     
 .page_banner_content .page_title {
